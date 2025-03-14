@@ -1,8 +1,1 @@
-<h1 align="center">Hello, I'm Exhils!</h1>
-<h3 align="center">Love, Exhils.</h3>
-
-- 💬 Ask me about **myself!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wa27rtmxbnm6zqlea6lcajezkm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wa27rtmxbnm6zqlea6lcajezkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=9edfff)]]
