@@ -1,4 +1,3 @@
-
 # About Me
 <h1 align="center">Love, Exhils.</h1>
 <h3 align="center">A short discriptive of me.</h3>
@@ -6,6 +5,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exhills" alt="exhills" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/exhils" target="blank"><img src="https://img.shields.io/twitter/follow/exhils?logo=twitter&style=for-the-badge" alt="exhils" /></a> </p>
+
+- 🌱 I’m currently learning **Reverse Engineering, Software Development, and just coding in general.**
+
+- 📫 How to reach me 〱 **exhilsism@gmail.com**
+
+- ⚡ Fun fact 〱 **I like Scenery, Arctic Foxes, Software Engineering, and Gam(ing)es!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
