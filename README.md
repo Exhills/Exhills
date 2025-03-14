@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/exhils" target="blank"><img src="https://img.shields.io/twitter/follow/exhils?logo=twitter&style=for-the-badge" alt="exhils" /></a> </p>
 
-- 🌱 I’m currently learning **Reverse Engineering, Software Development, and just coding in general.**
+- ｛学ぶ｝I’m currently learning ∕ **“ Reverse Engineering, Software Development, and just coding in general. ”**
 
-- 📫 How to reach me 〱 **exhilsism@gmail.com**
+- ｛到着｝How to reach me ∕ **“ exhilsism@gmail.com ”**
 
-- ⚡ Fun fact 〱 **I like Scenery, Arctic Foxes, Software Engineering, and Gam(ing)es!**
+- ｛事実｝Fun fact ∕ **“ I like Scenery, Arctic Foxes, Software Engineering, and Gaming/Games too! ”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
