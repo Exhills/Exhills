@@ -2,6 +2,8 @@
 <h1 align="center">Love, Exhils.</h1>
 <h3 align="center">A short discriptive of me.</h3>
 
+<img src="https://github.com/user-attachments/assets/51771eb6-a9d5-4e7c-9a31-c2c47db379bf" width="15%"></img> <img src="https://github.com/user-attachments/assets/bf689992-5cf8-47e2-b8b4-1f134aad5dfb" width="15%"></img> <img src="https://github.com/user-attachments/assets/ffbf1459-4ef6-4652-8333-3a99e8f20e2f" width="15%"></img> <img src="https://github.com/user-attachments/assets/5508d941-8efb-4173-90c6-474f9df27eaf" width="15%"></img> <img src="https://github.com/user-attachments/assets/d9e071cb-4982-456e-8ba4-99eac2a626ef" width="15%"></img> <img src="https://github.com/user-attachments/assets/df215045-a2fc-4ac7-ac53-bafe560b60d2" width="15%"></img> 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exhills" alt="exhills" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/exhils" target="blank"><img src="https://img.shields.io/twitter/follow/exhils?logo=twitter&style=for-the-badge" alt="exhils" /></a> </p>
@@ -25,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exhills&show_icons=true&locale=en" alt="exhills" /></p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wa27rtmxbnm6zqlea6lcajezkm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=adfaff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wa27rtmxbnm6zqlea6lcajezkm&redirect=true)
-<img src="https://github.com/user-attachments/assets/51771eb6-a9d5-4e7c-9a31-c2c47db379bf" width="30%"></img> <img src="https://github.com/user-attachments/assets/bf689992-5cf8-47e2-b8b4-1f134aad5dfb" width="30%"></img> <img src="https://github.com/user-attachments/assets/ffbf1459-4ef6-4652-8333-3a99e8f20e2f" width="30%"></img> <img src="https://github.com/user-attachments/assets/5508d941-8efb-4173-90c6-474f9df27eaf" width="30%"></img> <img src="https://github.com/user-attachments/assets/d9e071cb-4982-456e-8ba4-99eac2a626ef" width="30%"></img> <img src="https://github.com/user-attachments/assets/df215045-a2fc-4ac7-ac53-bafe560b60d2" width="30%"></img> 
